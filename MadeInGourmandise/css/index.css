@@ -1,0 +1,86 @@
+body
+{
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+}
+
+header nav ul a
+{
+    color: black;
+}
+nav {
+    background: pink;
+    font-size: 20px;
+}
+.glace {
+    background-image: url(../img/glace1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.taille {
+    height: 300px;
+}
+.milkshake {
+    background-image: url(../img/milkshake2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.evenement {
+    background-image: url(../img/event.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.gateau3 {
+    background-image: url(../img/gateau3.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.couleur {
+    background-color: rgb(248, 232, 235);
+    color: grey;
+    padding-top: 50px;
+}
+.intro {
+    font-size: 40px;
+    color: #e6007e;
+    display: flex;
+    text-align: center;
+}
+footer {
+    background-color: pink;
+    color: grey;
+}
+
+.coltxt {
+    color:  grey;
+}
+h2 {
+    color: #e6007e;
+}
+.distance {
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+.btn i {
+    font-size: 80px;
+}
+.haut {
+    padding-top: 12%; 
+    padding-bottom: 6%;
+    padding-left: 10%;
+}
+.haut1 {
+    padding-top: 6%;
+    text-align: center;
+}
+iframe {
+    max-width: 100%;
+}
+.portrait {
+    margin: auto;
+}
+.form1 {
+    margin-bottom: 35px;
+    margin-top: 50px;
+}
